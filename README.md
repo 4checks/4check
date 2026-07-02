@@ -8,7 +8,7 @@ Method: POST
 
 gate: vip-authchecker1 | vip-authchecker2 | vip-3dchecker1 | vip-chargechecker1
 
-# Request Example:
+- Request Example:
 
 {
   "key": "0790bcdb-eea4-45b5-9f57-e0ac738692e5",
@@ -16,7 +16,7 @@ gate: vip-authchecker1 | vip-authchecker2 | vip-3dchecker1 | vip-chargechecker1
   "input": "5425395086852571|07/28|269|Bobby Underwood|65340"
 }
 
-# Response Example:
+- Response Example:
 
 {
   "success": true,
